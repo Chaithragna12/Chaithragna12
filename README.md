@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m **chaithragna**, a passionate full-stack web developer with hands-on experience in building responsive and user-friendly applications using React.js, Node.js, Express.js, and MongoDB. I’ve developed multiple real-world projects, including an online restaurant ordering system, a task manager app, and an e-commerce admin panel — all designed with a focus on functionality, clean UI, and efficient backend systems.<br>
-**Skills & Expertise:**<br>
+## Skills & Expertise:<br>
 **Development:** React.js,HTML, CSS,JavaScript,Tailwind CSS<br>
 **Backend Development:** Node.js,Express.js<br>
 **Database Management:** MongoDB (NoSQL),SQL,PostgreSQL,MySQL<br>
